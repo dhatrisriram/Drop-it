@@ -1,0 +1,15 @@
+{
+  "video": "serve_03.mp4",
+  "contact_frame": 90,
+  "timestamp_ms": 3000.0,
+  "timestamp_s": "3.00s",
+  "fps": 30.0,
+  "hitting_arm": "right",
+  "signal_agreement": "strong",
+  "signals": {
+    "wrist_peak_height_frame": 90,
+    "wrist_velocity_peak_frame": 87,
+    "gap_frames": 3,
+    "swing_start_frame": 84
+  }
+}
